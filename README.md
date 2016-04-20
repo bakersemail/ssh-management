@@ -1,4 +1,6 @@
 # ssh-management
+
+Either use manage.sh wrapper which will log command history or directly use manage.py.
 ```bash
 Usage: manage.py [command] (options)
 
